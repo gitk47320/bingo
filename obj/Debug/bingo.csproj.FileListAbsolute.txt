@@ -1,0 +1,15 @@
+C:\Users\junya\source\repos\bingo\bingo\bin\Debug\bingo.exe.config
+C:\Users\junya\source\repos\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\junya\source\repos\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.csprojResolveAssemblyReference.cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\MainWindow.g.cs
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\App.g.cs
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo_MarkupCompile.cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo_MarkupCompile.lref
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\MainWindow.baml
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.g.resources
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.Cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.exe
+C:\Users\junya\source\repos\bingo\bingo\obj\Debug\bingo.pdb
