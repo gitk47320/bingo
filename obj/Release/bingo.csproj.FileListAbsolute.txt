@@ -1,0 +1,14 @@
+C:\Users\junya\source\repos\bingo\bingo\bin\Release\bingo.exe.config
+C:\Users\junya\source\repos\bingo\bingo\bin\Release\bingo.exe
+C:\Users\junya\source\repos\bingo\bingo\bin\Release\bingo.pdb
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\MainWindow.g.cs
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\App.g.cs
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo_MarkupCompile.cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo_MarkupCompile.lref
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\MainWindow.baml
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.g.resources
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.Properties.Resources.resources
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.csproj.GenerateResource.Cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.csproj.CoreCompileInputs.cache
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.exe
+C:\Users\junya\source\repos\bingo\bingo\obj\Release\bingo.pdb

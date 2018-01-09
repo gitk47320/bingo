@@ -20,6 +20,7 @@ namespace bingo
             if (bingologic.bingocount == bingologic.MAX_NUM)
             {
                 MessageBox.Show("番号はすべて出ています", "メッセージ");
+                BingodisplayLabel.Content = "";
                 BingologsView.Items.Clear();
                 bingologic.BingoInit();
             }
